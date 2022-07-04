@@ -1,0 +1,2 @@
+# Eighty-Fuh
+Openbox theme
